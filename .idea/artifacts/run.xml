@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="run">
+    <output-path>$PROJECT_DIR$/out/artifacts/run</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="AppParaProbar/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="AppParaProbar" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="D:/Downloads/Compressed/poi-bin-3.14/poi-3.14/curvesapi-1.03.jar" />
+          <element id="file-copy" path="D:/Downloads/Compressed/poi-bin-3.14/poi-3.14/poi-3.14-20160307.jar" />
+          <element id="file-copy" path="D:/Downloads/Compressed/poi-bin-3.14/poi-3.14/poi-examples-3.14-20160307.jar" />
+          <element id="file-copy" path="D:/Downloads/Compressed/poi-bin-3.14/poi-3.14/poi-excelant-3.14-20160307.jar" />
+          <element id="file-copy" path="D:/Downloads/Compressed/poi-bin-3.14/poi-3.14/poi-ooxml-3.14-20160307.jar" />
+          <element id="file-copy" path="D:/Downloads/Compressed/poi-bin-3.14/poi-3.14/poi-ooxml-schemas-3.14-20160307.jar" />
+          <element id="file-copy" path="D:/Downloads/Compressed/poi-bin-3.14/poi-3.14/poi-scratchpad-3.14-20160307.jar" />
+          <element id="file-copy" path="D:/Downloads/Compressed/poi-bin-3.14/poi-3.14/xmlbeans-2.6.0.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
