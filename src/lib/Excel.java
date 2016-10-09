@@ -11,7 +11,7 @@ public class Excel {
     private XSSFWorkbook workbook;
     private Sheet sheet;
     private final String FILE_NAME = "calificaciones.xlsx";
-    private final String FILE_PATH = "C:/Users/Danny/workspace/AppParaProbar/files/";
+    private final String FILE_PATH = "C:/Users/Danny/workspace/SistemaCalificaciones/files/";
     private final String FULL_FILE_PATH = FILE_PATH + FILE_NAME;
     private DataFormatter fmt = new DataFormatter();
 
